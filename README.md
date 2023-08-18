@@ -23,7 +23,3 @@ Prepare your dataset:
 6. Pushing code to Github
 ```
 
-
-## Demo
-
-![App Screenshot](https://raw.githubusercontent.com/Sumit-Sharma-26/Netflix-recommender-system-and-deployment/main/net%20screenshot.png)
